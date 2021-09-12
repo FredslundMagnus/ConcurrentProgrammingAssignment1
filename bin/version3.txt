@@ -57,7 +57,7 @@ public class Search {
     static int len; // Length of actual text
     static String fname; // Text file name
     static char[] pattern; // Search pattern
-    static int ntasks = 10000; // No. of tasks
+    static int ntasks = 1; // No. of tasks
     static int nthreads = 1; // No. of threads to use
     static boolean printPos = false; // Print all positions found
     static int warmups = 0; // No. of warmup searches
@@ -185,7 +185,7 @@ public class Search {
                     new String(pattern), ntasks, nthreads, warmups, runs);
 
             /* Setup execution engine */
-            ExecutorService engine = Executors.newFixedThreadPool(nthreads);
+            ExecutorService engine = Executors.newCachedThreadPool();
 
             /**********************************************
              * Run search using a single task
