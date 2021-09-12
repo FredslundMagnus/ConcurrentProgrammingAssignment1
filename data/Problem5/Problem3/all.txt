@@ -1,0 +1,14 @@
+batch-10000.txt:Average speedup: 1.48
+batch-1000.txt:Average speedup:  1.95
+batch-100.txt:Average speedup:   2.71
+batch-120.txt:Average speedup:   2.92
+batch-140.txt:Average speedup:   2.24
+batch-160.txt:Average speedup:   2.55
+batch-180.txt:Average speedup:   2.13
+batch-200.txt:Average speedup:   2.15
+batch-20.txt:Average speedup:    2.39
+batch-300.txt:Average speedup:   2.10
+batch-400.txt:Average speedup:   2.47
+batch-40.txt:Average speedup:    2.09
+batch-60.txt:Average speedup:    2.60
+batch-80.txt:Average speedup:    2.60
