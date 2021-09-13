@@ -1,6 +1,3 @@
-threads-16-batch-1000.txt:Average speedup: 2.34
-threads-16-batch-100.txt:Average speedup: 2.20
-threads-16-batch-10.txt:Average speedup: 2.09
 threads-1-batch-1000.txt:Average speedup: 0.94
 threads-1-batch-100.txt:Average speedup: 0.93
 threads-1-batch-10.txt:Average speedup: 0.85
@@ -13,3 +10,6 @@ threads-4-batch-10.txt:Average speedup: 1.99
 threads-8-batch-1000.txt:Average speedup: 2.11
 threads-8-batch-100.txt:Average speedup: 2.49
 threads-8-batch-10.txt:Average speedup: 2.03
+threads-16-batch-1000.txt:Average speedup: 2.34
+threads-16-batch-100.txt:Average speedup: 2.20
+threads-16-batch-10.txt:Average speedup: 2.09
