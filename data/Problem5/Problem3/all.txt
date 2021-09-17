@@ -1,14 +1,47 @@
-batch-10000.txt:Average speedup: 1.48
-batch-1000.txt:Average speedup:  1.95
-batch-100.txt:Average speedup:   2.71
-batch-120.txt:Average speedup:   2.92
-batch-140.txt:Average speedup:   2.24
-batch-160.txt:Average speedup:   2.55
-batch-180.txt:Average speedup:   2.13
-batch-200.txt:Average speedup:   2.15
-batch-20.txt:Average speedup:    2.39
-batch-300.txt:Average speedup:   2.10
-batch-400.txt:Average speedup:   2.47
-batch-40.txt:Average speedup:    2.09
-batch-60.txt:Average speedup:    2.60
-batch-80.txt:Average speedup:    2.60
+tasks-1.txt:Average speedup:     1.060
+tasks-2.txt:Average speedup:     1.830
+tasks-3.txt:Average speedup:     2.640
+tasks-4.txt:Average speedup:     3.240
+tasks-5.txt:Average speedup:     4.110
+tasks-6.txt:Average speedup:     4.560
+tasks-7.txt:Average speedup:     4.690
+tasks-8.txt:Average speedup:     6.720
+tasks-9.txt:Average speedup:     7.030
+tasks-10.txt:Average speedup:    7.910
+tasks-11.txt:Average speedup:    8.370
+tasks-12.txt:Average speedup:    10.88
+tasks-13.txt:Average speedup:    10.85
+tasks-14.txt:Average speedup:    11.53
+tasks-15.txt:Average speedup:    9.180
+tasks-16.txt:Average speedup:    11.18
+tasks-17.txt:Average speedup:    9.390
+tasks-18.txt:Average speedup:    8.970
+tasks-19.txt:Average speedup:    9.640
+tasks-20.txt:Average speedup:    9.680
+tasks-40.txt:Average speedup:    11.39
+tasks-60.txt:Average speedup:    10.86
+tasks-80.txt:Average speedup:    12.09
+tasks-100.txt:Average speedup:   11.35
+tasks-120.txt:Average speedup:   11.88
+tasks-140.txt:Average speedup:   12.93
+tasks-160.txt:Average speedup:   11.52
+tasks-180.txt:Average speedup:   13.64
+tasks-200.txt:Average speedup:   11.07
+tasks-300.txt:Average speedup:   11.38
+tasks-400.txt:Average speedup:   10.70
+tasks-1000.txt:Average speedup:  10.59
+tasks-10000.txt:Average speedup: 2.630
+
+
+
+
+
+
+
+
+
+
+
+
+
+

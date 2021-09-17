@@ -1,0 +1,213 @@
+
+File=Chromosome.txt, pattern='ATATGTTTT'
+ntasks=8, nthreads=1, warmups=10, runs=100
+
+Single task: Run no.  0: 74 occurrences found in 0.048179 s
+Single task: Run no.  1: 74 occurrences found in 0.048562 s
+Single task: Run no.  2: 74 occurrences found in 0.048333 s
+Single task: Run no.  3: 74 occurrences found in 0.048444 s
+Single task: Run no.  4: 74 occurrences found in 0.048275 s
+Single task: Run no.  5: 74 occurrences found in 0.048560 s
+Single task: Run no.  6: 74 occurrences found in 0.044994 s
+Single task: Run no.  7: 74 occurrences found in 0.043540 s
+Single task: Run no.  8: 74 occurrences found in 0.043710 s
+Single task: Run no.  9: 74 occurrences found in 0.043443 s
+Single task: Run no. 10: 74 occurrences found in 0.043685 s
+Single task: Run no. 11: 74 occurrences found in 0.051725 s
+Single task: Run no. 12: 74 occurrences found in 0.043730 s
+Single task: Run no. 13: 74 occurrences found in 0.043004 s
+Single task: Run no. 14: 74 occurrences found in 0.043255 s
+Single task: Run no. 15: 74 occurrences found in 0.043198 s
+Single task: Run no. 16: 74 occurrences found in 0.043106 s
+Single task: Run no. 17: 74 occurrences found in 0.043019 s
+Single task: Run no. 18: 74 occurrences found in 0.043069 s
+Single task: Run no. 19: 74 occurrences found in 0.043242 s
+Single task: Run no. 20: 74 occurrences found in 0.043130 s
+Single task: Run no. 21: 74 occurrences found in 0.043117 s
+Single task: Run no. 22: 74 occurrences found in 0.042976 s
+Single task: Run no. 23: 74 occurrences found in 0.043167 s
+Single task: Run no. 24: 74 occurrences found in 0.042966 s
+Single task: Run no. 25: 74 occurrences found in 0.043198 s
+Single task: Run no. 26: 74 occurrences found in 0.042944 s
+Single task: Run no. 27: 74 occurrences found in 0.043246 s
+Single task: Run no. 28: 74 occurrences found in 0.043083 s
+Single task: Run no. 29: 74 occurrences found in 0.043274 s
+Single task: Run no. 30: 74 occurrences found in 0.043031 s
+Single task: Run no. 31: 74 occurrences found in 0.043143 s
+Single task: Run no. 32: 74 occurrences found in 0.042974 s
+Single task: Run no. 33: 74 occurrences found in 0.043169 s
+Single task: Run no. 34: 74 occurrences found in 0.044133 s
+Single task: Run no. 35: 74 occurrences found in 0.043329 s
+Single task: Run no. 36: 74 occurrences found in 0.043212 s
+Single task: Run no. 37: 74 occurrences found in 0.043248 s
+Single task: Run no. 38: 74 occurrences found in 0.043180 s
+Single task: Run no. 39: 74 occurrences found in 0.043148 s
+Single task: Run no. 40: 74 occurrences found in 0.043336 s
+Single task: Run no. 41: 74 occurrences found in 0.043109 s
+Single task: Run no. 42: 74 occurrences found in 0.043259 s
+Single task: Run no. 43: 74 occurrences found in 0.043083 s
+Single task: Run no. 44: 74 occurrences found in 0.043080 s
+Single task: Run no. 45: 74 occurrences found in 0.043050 s
+Single task: Run no. 46: 74 occurrences found in 0.043258 s
+Single task: Run no. 47: 74 occurrences found in 0.043016 s
+Single task: Run no. 48: 74 occurrences found in 0.043077 s
+Single task: Run no. 49: 74 occurrences found in 0.043251 s
+Single task: Run no. 50: 74 occurrences found in 0.043172 s
+Single task: Run no. 51: 74 occurrences found in 0.043002 s
+Single task: Run no. 52: 74 occurrences found in 0.043169 s
+Single task: Run no. 53: 74 occurrences found in 0.043142 s
+Single task: Run no. 54: 74 occurrences found in 0.043130 s
+Single task: Run no. 55: 74 occurrences found in 0.043159 s
+Single task: Run no. 56: 74 occurrences found in 0.043135 s
+Single task: Run no. 57: 74 occurrences found in 0.043042 s
+Single task: Run no. 58: 74 occurrences found in 0.042960 s
+Single task: Run no. 59: 74 occurrences found in 0.042654 s
+Single task: Run no. 60: 74 occurrences found in 0.042413 s
+Single task: Run no. 61: 74 occurrences found in 0.042537 s
+Single task: Run no. 62: 74 occurrences found in 0.042383 s
+Single task: Run no. 63: 74 occurrences found in 0.042511 s
+Single task: Run no. 64: 74 occurrences found in 0.042370 s
+Single task: Run no. 65: 74 occurrences found in 0.042502 s
+Single task: Run no. 66: 74 occurrences found in 0.042371 s
+Single task: Run no. 67: 74 occurrences found in 0.042449 s
+Single task: Run no. 68: 74 occurrences found in 0.042398 s
+Single task: Run no. 69: 74 occurrences found in 0.042535 s
+Single task: Run no. 70: 74 occurrences found in 0.042433 s
+Single task: Run no. 71: 74 occurrences found in 0.042374 s
+Single task: Run no. 72: 74 occurrences found in 0.042611 s
+Single task: Run no. 73: 74 occurrences found in 0.043540 s
+Single task: Run no. 74: 74 occurrences found in 0.043053 s
+Single task: Run no. 75: 74 occurrences found in 0.042915 s
+Single task: Run no. 76: 74 occurrences found in 0.043100 s
+Single task: Run no. 77: 74 occurrences found in 0.042969 s
+Single task: Run no. 78: 74 occurrences found in 0.043103 s
+Single task: Run no. 79: 74 occurrences found in 0.042792 s
+Single task: Run no. 80: 74 occurrences found in 0.043060 s
+Single task: Run no. 81: 74 occurrences found in 0.042848 s
+Single task: Run no. 82: 74 occurrences found in 0.042988 s
+Single task: Run no. 83: 74 occurrences found in 0.042980 s
+Single task: Run no. 84: 74 occurrences found in 0.042938 s
+Single task: Run no. 85: 74 occurrences found in 0.042991 s
+Single task: Run no. 86: 74 occurrences found in 0.042880 s
+Single task: Run no. 87: 74 occurrences found in 0.043012 s
+Single task: Run no. 88: 74 occurrences found in 0.042884 s
+Single task: Run no. 89: 74 occurrences found in 0.043140 s
+Single task: Run no. 90: 74 occurrences found in 0.042877 s
+Single task: Run no. 91: 74 occurrences found in 0.043161 s
+Single task: Run no. 92: 74 occurrences found in 0.042950 s
+Single task: Run no. 93: 74 occurrences found in 0.043130 s
+Single task: Run no. 94: 74 occurrences found in 0.043014 s
+Single task: Run no. 95: 74 occurrences found in 0.043186 s
+Single task: Run no. 96: 74 occurrences found in 0.043234 s
+Single task: Run no. 97: 74 occurrences found in 0.043142 s
+Single task: Run no. 98: 74 occurrences found in 0.043062 s
+Single task: Run no. 99: 74 occurrences found in 0.042941 s
+
+Single task (avg.): 0.043466 s
+
+Using  8 tasks: Run no.  0: 74 occurrences found in 0.007473 s
+Using  8 tasks: Run no.  1: 74 occurrences found in 0.011848 s
+Using  8 tasks: Run no.  2: 74 occurrences found in 0.010953 s
+Using  8 tasks: Run no.  3: 74 occurrences found in 0.010101 s
+Using  8 tasks: Run no.  4: 74 occurrences found in 0.009455 s
+Using  8 tasks: Run no.  5: 74 occurrences found in 0.008961 s
+Using  8 tasks: Run no.  6: 74 occurrences found in 0.008566 s
+Using  8 tasks: Run no.  7: 74 occurrences found in 0.008152 s
+Using  8 tasks: Run no.  8: 74 occurrences found in 0.007855 s
+Using  8 tasks: Run no.  9: 74 occurrences found in 0.007456 s
+Using  8 tasks: Run no. 10: 74 occurrences found in 0.007129 s
+Using  8 tasks: Run no. 11: 74 occurrences found in 0.006886 s
+Using  8 tasks: Run no. 12: 74 occurrences found in 0.006693 s
+Using  8 tasks: Run no. 13: 74 occurrences found in 0.006503 s
+Using  8 tasks: Run no. 14: 74 occurrences found in 0.006315 s
+Using  8 tasks: Run no. 15: 74 occurrences found in 0.006198 s
+Using  8 tasks: Run no. 16: 74 occurrences found in 0.006141 s
+Using  8 tasks: Run no. 17: 74 occurrences found in 0.006142 s
+Using  8 tasks: Run no. 18: 74 occurrences found in 0.006106 s
+Using  8 tasks: Run no. 19: 74 occurrences found in 0.006116 s
+Using  8 tasks: Run no. 20: 74 occurrences found in 0.006113 s
+Using  8 tasks: Run no. 21: 74 occurrences found in 0.006145 s
+Using  8 tasks: Run no. 22: 74 occurrences found in 0.006163 s
+Using  8 tasks: Run no. 23: 74 occurrences found in 0.006049 s
+Using  8 tasks: Run no. 24: 74 occurrences found in 0.006172 s
+Using  8 tasks: Run no. 25: 74 occurrences found in 0.006145 s
+Using  8 tasks: Run no. 26: 74 occurrences found in 0.006054 s
+Using  8 tasks: Run no. 27: 74 occurrences found in 0.006074 s
+Using  8 tasks: Run no. 28: 74 occurrences found in 0.006041 s
+Using  8 tasks: Run no. 29: 74 occurrences found in 0.006100 s
+Using  8 tasks: Run no. 30: 74 occurrences found in 0.006017 s
+Using  8 tasks: Run no. 31: 74 occurrences found in 0.006117 s
+Using  8 tasks: Run no. 32: 74 occurrences found in 0.006008 s
+Using  8 tasks: Run no. 33: 74 occurrences found in 0.006128 s
+Using  8 tasks: Run no. 34: 74 occurrences found in 0.006114 s
+Using  8 tasks: Run no. 35: 74 occurrences found in 0.006002 s
+Using  8 tasks: Run no. 36: 74 occurrences found in 0.006130 s
+Using  8 tasks: Run no. 37: 74 occurrences found in 0.005994 s
+Using  8 tasks: Run no. 38: 74 occurrences found in 0.005999 s
+Using  8 tasks: Run no. 39: 74 occurrences found in 0.006125 s
+Using  8 tasks: Run no. 40: 74 occurrences found in 0.005994 s
+Using  8 tasks: Run no. 41: 74 occurrences found in 0.006016 s
+Using  8 tasks: Run no. 42: 74 occurrences found in 0.005992 s
+Using  8 tasks: Run no. 43: 74 occurrences found in 0.005995 s
+Using  8 tasks: Run no. 44: 74 occurrences found in 0.006002 s
+Using  8 tasks: Run no. 45: 74 occurrences found in 0.005974 s
+Using  8 tasks: Run no. 46: 74 occurrences found in 0.006029 s
+Using  8 tasks: Run no. 47: 74 occurrences found in 0.006006 s
+Using  8 tasks: Run no. 48: 74 occurrences found in 0.006024 s
+Using  8 tasks: Run no. 49: 74 occurrences found in 0.006016 s
+Using  8 tasks: Run no. 50: 74 occurrences found in 0.005997 s
+Using  8 tasks: Run no. 51: 74 occurrences found in 0.006023 s
+Using  8 tasks: Run no. 52: 74 occurrences found in 0.006004 s
+Using  8 tasks: Run no. 53: 74 occurrences found in 0.005983 s
+Using  8 tasks: Run no. 54: 74 occurrences found in 0.006000 s
+Using  8 tasks: Run no. 55: 74 occurrences found in 0.006004 s
+Using  8 tasks: Run no. 56: 74 occurrences found in 0.005996 s
+Using  8 tasks: Run no. 57: 74 occurrences found in 0.005998 s
+Using  8 tasks: Run no. 58: 74 occurrences found in 0.006003 s
+Using  8 tasks: Run no. 59: 74 occurrences found in 0.006003 s
+Using  8 tasks: Run no. 60: 74 occurrences found in 0.005996 s
+Using  8 tasks: Run no. 61: 74 occurrences found in 0.006002 s
+Using  8 tasks: Run no. 62: 74 occurrences found in 0.005997 s
+Using  8 tasks: Run no. 63: 74 occurrences found in 0.005984 s
+Using  8 tasks: Run no. 64: 74 occurrences found in 0.005996 s
+Using  8 tasks: Run no. 65: 74 occurrences found in 0.005998 s
+Using  8 tasks: Run no. 66: 74 occurrences found in 0.005981 s
+Using  8 tasks: Run no. 67: 74 occurrences found in 0.006001 s
+Using  8 tasks: Run no. 68: 74 occurrences found in 0.006002 s
+Using  8 tasks: Run no. 69: 74 occurrences found in 0.005966 s
+Using  8 tasks: Run no. 70: 74 occurrences found in 0.005994 s
+Using  8 tasks: Run no. 71: 74 occurrences found in 0.006004 s
+Using  8 tasks: Run no. 72: 74 occurrences found in 0.005976 s
+Using  8 tasks: Run no. 73: 74 occurrences found in 0.006013 s
+Using  8 tasks: Run no. 74: 74 occurrences found in 0.006021 s
+Using  8 tasks: Run no. 75: 74 occurrences found in 0.005977 s
+Using  8 tasks: Run no. 76: 74 occurrences found in 0.006003 s
+Using  8 tasks: Run no. 77: 74 occurrences found in 0.008187 s
+Using  8 tasks: Run no. 78: 74 occurrences found in 0.007909 s
+Using  8 tasks: Run no. 79: 74 occurrences found in 0.007552 s
+Using  8 tasks: Run no. 80: 74 occurrences found in 0.007315 s
+Using  8 tasks: Run no. 81: 74 occurrences found in 0.007072 s
+Using  8 tasks: Run no. 82: 74 occurrences found in 0.006737 s
+Using  8 tasks: Run no. 83: 74 occurrences found in 0.006583 s
+Using  8 tasks: Run no. 84: 74 occurrences found in 0.006430 s
+Using  8 tasks: Run no. 85: 74 occurrences found in 0.006207 s
+Using  8 tasks: Run no. 86: 74 occurrences found in 0.006083 s
+Using  8 tasks: Run no. 87: 74 occurrences found in 0.005993 s
+Using  8 tasks: Run no. 88: 74 occurrences found in 0.006087 s
+Using  8 tasks: Run no. 89: 74 occurrences found in 0.005993 s
+Using  8 tasks: Run no. 90: 74 occurrences found in 0.006072 s
+Using  8 tasks: Run no. 91: 74 occurrences found in 0.006104 s
+Using  8 tasks: Run no. 92: 74 occurrences found in 0.006018 s
+Using  8 tasks: Run no. 93: 74 occurrences found in 0.005991 s
+Using  8 tasks: Run no. 94: 74 occurrences found in 0.006085 s
+Using  8 tasks: Run no. 95: 74 occurrences found in 0.005989 s
+Using  8 tasks: Run no. 96: 74 occurrences found in 0.006098 s
+Using  8 tasks: Run no. 97: 74 occurrences found in 0.005991 s
+Using  8 tasks: Run no. 98: 74 occurrences found in 0.005987 s
+Using  8 tasks: Run no. 99: 74 occurrences found in 0.006059 s
+
+Using  8 tasks (avg.): 0.006473 s
+
+
+Average speedup: 6.72
+

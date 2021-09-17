@@ -1,15 +1,26 @@
-threads-1-batch-1000.txt:Average speedup: 0.94
-threads-1-batch-100.txt:Average speedup: 0.93
-threads-1-batch-10.txt:Average speedup: 0.85
-threads-2-batch-1000.txt:Average speedup: 1.53
-threads-2-batch-100.txt:Average speedup: 1.44
-threads-2-batch-10.txt:Average speedup: 1.34
-threads-4-batch-1000.txt:Average speedup: 1.81
-threads-4-batch-100.txt:Average speedup: 1.43
-threads-4-batch-10.txt:Average speedup: 1.99
-threads-8-batch-1000.txt:Average speedup: 2.11
-threads-8-batch-100.txt:Average speedup: 2.49
-threads-8-batch-10.txt:Average speedup: 2.03
-threads-16-batch-1000.txt:Average speedup: 2.34
-threads-16-batch-100.txt:Average speedup: 2.20
-threads-16-batch-10.txt:Average speedup: 2.09
+threads-1-tasks-1000.txt:Average speedup:  0.950
+threads-1-tasks-100.txt:Average speedup:   1.090
+threads-1-tasks-10.txt:Average speedup:    0.930
+threads-2-tasks-1000.txt:Average speedup:  2.810
+threads-2-tasks-100.txt:Average speedup:   2.630
+threads-2-tasks-10.txt:Average speedup:    2.480
+threads-4-tasks-1000.txt:Average speedup:  5.600
+threads-4-tasks-100.txt:Average speedup:   5.820
+threads-4-tasks-10.txt:Average speedup:    5.190
+threads-8-tasks-1000.txt:Average speedup:  10.19
+threads-8-tasks-100.txt:Average speedup:   10.59
+threads-8-tasks-10.txt:Average speedup:    6.390
+threads-16-tasks-1000.txt:Average speedup: 11.51
+threads-16-tasks-100.txt:Average speedup:  18.58
+threads-16-tasks-10.txt:Average speedup:   11.20
+
+
+
+
+
+
+
+
+
+
+
