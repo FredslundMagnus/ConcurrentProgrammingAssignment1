@@ -7,12 +7,34 @@ from seaborn import heatmap
 # [0.056959, 0.047256, 0.024136, 0.026478, 0.024979]
 # ] # old
 
+# data_4 = [
+#     [1.35, 2.37, 2.59, 2.76, 2.81],
+#     [0.88, 1.47, 2.11, 3.20, 1.33],
+#     [1.47, 2.13, 1.99, 2.63, 3.07]
+# ]
+
 data_4 = [
-    [1.35, 2.37, 2.59, 2.76, 2.81],
-    [0.88, 1.47, 2.11, 3.20, 1.33],
-    [1.47, 2.13, 1.99, 2.63, 3.07]
+    [1.09, 2.16, 4.06, 6.30, 5.98],
+    [1.06, 2.11, 4.15, 5.79, 5.70],
+    [1.01, 1.99, 3.28, 4.34, 4.87]
 ]
 
+
+# threads-1-tasks-10.txt: Average speedup:    1.01
+# threads-1-tasks-100.txt: Average speedup:   1.06
+# threads-1-tasks-1000.txt: Average speedup:  1.09
+# threads-2-tasks-10.txt: Average speedup:    1.99
+# threads-2-tasks-100.txt: Average speedup:   2.11
+# threads-2-tasks-1000.txt: Average speedup:  2.16
+# threads-4-tasks-10.txt: Average speedup:    3.28
+# threads-4-tasks-100.txt: Average speedup:   4.15
+# threads-4-tasks-1000.txt: Average speedup:  4.06
+# threads-8-tasks-10.txt: Average speedup:    4.34
+# threads-8-tasks-100.txt: Average speedup:   5.79
+# threads-8-tasks-1000.txt: Average speedup:  6.30
+# threads-16-tasks-10.txt: Average speedup:   4.87
+# threads-16-tasks-100.txt: Average speedup:  5.70
+# threads-16-tasks-1000.txt: Average speedup: 5.98
 
 # data_5 = [[0.106361, 0.079162, 0.078486, 0.049976, 0.034296], [0.091244, 0.079936, 0.047931, 0.051310, 0.040113], [0.106956, 0.078486, 0.056372, 0.049171, 0.049484]] # old
 
